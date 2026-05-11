@@ -14,6 +14,8 @@ A data-driven analysis of carbon emissions trends, decoupling performance, and 2
 ---
 
 ## Repository Structure
+
+```
 g20-sovereign-climate-risk/
 ├── G20_Sovereign_Climate_Risk_Analysis.ipynb  # Main analysis notebook
 ├── Figure/                                     # All output visualizations
@@ -25,7 +27,8 @@ g20-sovereign-climate-risk/
 │   ├── fig6_decoupling_scorecard.png
 │   └── fig7_2030_projection_rf.png
 └── Data/
-└── data_source.md                          # Data source documentation
+    └── data_source.md                          # Data source documentation
+```
 ---
 
 ## Key Findings
